@@ -1,0 +1,7 @@
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.AssemblyReference.cache
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfoInputs.cache
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfo.cs
+C:\Users\churka\Desktop\уп\уп4\zd4\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.CoreCompileInputs.cache
